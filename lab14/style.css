@@ -1,0 +1,119 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  background-color: lightgrey;
+  color: #0C2340;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #0C2340;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ddd;
+}
+
+li a:active {
+    color: white;
+    background-color: #4CAF50;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 40%;
+}
+/*Style for Tigers Page*/
+.wrapper-tg {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color:  #0C2340;
+  color: #FFFFFF;
+  border-top: 30px solid #FA4614;
+  border-bottom: 30px solid #FA4614;
+}
+.info-tg {
+  text-align: left;
+  padding: 12px 12px 12px 239px;
+}
+/*Style for Lions Page*/
+.wrapper-li {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color:  #006DB0;
+  color:  #FFFFFF;
+  border-top: 30px solid #C5C7CF;
+  border-bottom: 30px solid #C5C7CF;
+}
+.info-li {
+  text-align: left;
+  padding: 12px 12px 12px 239px;
+}
+/*Style for Red Wings Page*/
+.wrapper-rw {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color:  #E51837;
+  color:  #FFFFFF;
+  border-top: 30px solid #FFFFFF;
+  border-bottom: 30px solid #FFFFFF;
+}
+.info-rw {
+  text-align: left;
+  padding: 18px 144px 0px 144px;
+}
+.header-rw {
+  text-align: center;
+}
+/*Style for Pistons Page*/
+.wrapper-pi {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color:  #001F70;
+  color:  #FFFFFF;
+  border-top: 30px solid #ED174C;
+  border-bottom: 30px solid #ED174C;
+}
+.info-pi {
+  text-align: left;
+  padding: 12px 12px 12px 239px;
+}
+.wrapper-home {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  border-top: 30px solid #E51837;
+  border-bottom: 30px solid #E51837;
+  color: black;
+}
+.mascots {
+  color: black;
+}
+.wrapper-index {
+  margin-top: 30px;
+}
+.mascots {
+  color: #0C2340;
+  font-weight: 900;
+}
